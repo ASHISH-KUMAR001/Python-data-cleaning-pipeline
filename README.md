@@ -1,6 +1,6 @@
-# 🧹 HR Data Cleaning & Pipeline
+# 🧹  Data Cleaning & Pipeline
 
-This repository contains a comprehensive Data Cleaning pipeline implemented in Python using a Jupyter Notebook. The project focuses on transforming "dirty" HR/Customer data into a structured, analysis-ready format by addressing missing values, inconsistent formatting, outliers, and duplicates.
+This repository contains a comprehensive Data Cleaning pipeline implemented in Python using a Jupyter Notebook. The project focuses on transforming "dirty" Customer data into a structured, analysis-ready format by addressing missing values, inconsistent formatting, outliers, and duplicates.
 
 ## 📊 Dataset Overview
 The initial dataset consisted of **10,200 rows** with the following columns:
